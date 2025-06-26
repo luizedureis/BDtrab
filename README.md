@@ -15,15 +15,15 @@ TABELAS.sql
 POPULACAO.sql
 
 ## 3. Consultas, criação de index e de view
-A ordem desses comandos não importa, as opções de scripts são:
-CONSULTA1.sql
-CONSULTA2.sql
-CONSULTA4.sql
-CONSULTA5.sql
-CONSULTA6.sql
-INDEX1.sql
-INDEX2.sql
-INDEX3.sql
-VIEW1.sql
-VIEW2.sql
+A ordem desses comandos não importa, as opções de scripts são:\
+CONSULTA1.sql\
+CONSULTA2.sql\
+CONSULTA4.sql\
+CONSULTA5.sql\
+CONSULTA6.sql\
+INDEX1.sql\
+INDEX2.sql\
+INDEX3.sql\
+VIEW1.sql\
+VIEW2.sql\
 VIEW3.sql
